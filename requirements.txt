@@ -1,0 +1,10 @@
+npm install --save @fortawesome/fontawesome-free
+npm install react-router-dom
+npm install bootstrap-icons@latest
+npm install jquery
+npm install react-bootstrap-table2 react-bootstrap-table2-paginator react-bootstrap-table2-filter --force
+npm install @fullcalendar/react @fullcalendar/daygrid --force
+npm install bootstrap --force
+npm install react-bootstrap bootstrap
+npm install moment --force
+npm install react-toastify --force

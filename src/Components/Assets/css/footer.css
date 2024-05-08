@@ -1,0 +1,10 @@
+/* footer.css */
+
+.footer-container {
+  text-align: center;
+  padding: 10px;  /* Ajoutez un espacement si nécessaire */
+  background-color: #f8f9fa;  /* Couleur de fond du pied de page */
+
+  bottom: 0;
+  width: 100%;
+}
